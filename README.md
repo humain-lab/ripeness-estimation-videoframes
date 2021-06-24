@@ -8,6 +8,7 @@ Data (i.e., images) of the “Ripeness estimation video frames dataset” is bas
 
 References:
 [1] Davis R. (2020) Do grapes change color? understanding grape veraison. [Online]. Available: https://blog.jordanwinery.com/grape-veraison/
+
 [2] Kaburlasos, V.G.; Vrochidou, E.; Lytridis, C.; Papakostas, G.A.; Pachidis, T.; Manios, M.; Mamalis, S.; Merou, T.; Koundouras, 28 S.; Theocharis, S.; et al. Toward Big Data Manipulation for Grape Harvest Time Prediction by Intervals’ Numbers Techniques. 29 In Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN); IEEE, 2020; pp. 1–6.
 
 Cite as:
