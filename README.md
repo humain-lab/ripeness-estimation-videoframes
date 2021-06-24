@@ -13,4 +13,5 @@ References:
 [2] Kaburlasos, V.G.; Vrochidou, E.; Lytridis, C.; Papakostas, G.A.; Pachidis, T.; Manios, M.; Mamalis, S.; Merou, T.; Koundouras, 28 S.; Theocharis, S.; et al. Toward Big Data Manipulation for Grape Harvest Time Prediction by Intervals’ Numbers Techniques. 29 In Proceedings of the 2020 International Joint Conference on Neural Networks (IJCNN); IEEE, 2020; pp. 1–6.
 
 Cite as:
+
 C. Bazinas, E. Vrochidou, C. Lytridis, V. G. Kaburlasos, “Time Series of Distributions Forecasting in Agricultural Applications: An Intervals’ Numbers Approach”, 7th International conference on Time Series and Forecasting (ITISE 2021), Gran Canaria, Spain, 19-21 July 2021.
