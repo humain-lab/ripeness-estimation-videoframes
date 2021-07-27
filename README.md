@@ -1,4 +1,4 @@
-# Ripeness Estimation Video Frames
+# Ripeness Estimation Video Frames Dataset
 ![ripeness-video-dataset](https://user-images.githubusercontent.com/26176656/123220888-09a81680-d4d7-11eb-827f-928bd568c786.png)
 
 Fig. 1. Pictures of grapes taken from a fixed distance, at the same time of the day on (a) August 10, (b) August 14, (c) August 20, and (d) August 25. The color of grapes progressively turns from green to black as the grapes ripen.
